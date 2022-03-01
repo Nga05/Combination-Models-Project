@@ -5,7 +5,7 @@
 + Dataset of multiple topic: Economy, Technical Education, Entertaiment,... does not labeled.
 + Kind of model: Unsupervised Learning
 + ML model used: K-mean, Hierarchical, GMM
-+ Results evaluated in real labels and visual topic on WordCloud
++ Results evaluated in real labels and visualize topic on WordCloud
 
 
 ### Project 2: Recommender_System_for_Groceries_items
